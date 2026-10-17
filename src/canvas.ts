@@ -11,7 +11,7 @@ type SupportedFormat = (typeof SUPPORTED_FORMATS)[number];
 function assertFormat(format: string): asserts format is SupportedFormat {
   if (!SUPPORTED_FORMATS.includes(format as SupportedFormat)) {
     throw new Error(
-      `\`pixelsmith\` doesn't support exporting "${format}". Please use "jpeg", "png", or "gif"`,
+      `\`sharpsmith\` doesn't support exporting "${format}". Please use "jpeg", "png", or "gif"`,
     );
   }
 }
