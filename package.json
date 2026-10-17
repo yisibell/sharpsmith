@@ -23,6 +23,11 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yisibell/sharpsmith"
+  },
+  "homepage": "https://github.com/yisibell/sharpsmith",
   "engines": {
     "node": ">=22"
   },
