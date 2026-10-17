@@ -1,6 +1,6 @@
 {
   "name": "sharpsmith",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A spritesmith engine powered by sharp.",
   "license": "MIT",
   "type": "module",
