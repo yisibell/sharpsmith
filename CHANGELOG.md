@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.1.2
+
+[compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.1...v1.1.2)
+
+### 🏡 Chore
+
+- Add `repository` info ([9a8d5ea](https://github.com/yisibell/sharpsmith/commit/9a8d5ea))
+
+### ❤️ Contributors
+
+- Elenh ([@yisibell](https://github.com/yisibell))
+
 ## v1.1.1
 
 [compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.0...v1.1.1)
