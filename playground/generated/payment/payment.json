@@ -1,0 +1,1185 @@
+{
+  "files": 196,
+  "properties": {
+    "width": 1058,
+    "height": 996
+  },
+  "coordinates": {
+    "American_Express.png": {
+      "x": 862,
+      "y": 768,
+      "width": 60,
+      "height": 40
+    },
+    "American_Express@2x.png": {
+      "x": 0,
+      "y": 192,
+      "width": 120,
+      "height": 80
+    },
+    "American_Express_v2.png": {
+      "x": 636,
+      "y": 612,
+      "width": 45,
+      "height": 30
+    },
+    "American_Express_v2@2x.png": {
+      "x": 216,
+      "y": 128,
+      "width": 90,
+      "height": 60
+    },
+    "American_Express_v3.png": {
+      "x": 965,
+      "y": 966,
+      "width": 38,
+      "height": 26
+    },
+    "American_Express_v3@2x.png": {
+      "x": 642,
+      "y": 812,
+      "width": 76,
+      "height": 52
+    },
+    "CB.png": {
+      "x": 831,
+      "y": 966,
+      "width": 42,
+      "height": 30
+    },
+    "CB@2x.png": {
+      "x": 466,
+      "y": 812,
+      "width": 84,
+      "height": 60
+    },
+    "Carnet.png": {
+      "x": 768,
+      "y": 704,
+      "width": 60,
+      "height": 40
+    },
+    "Carnet@2x.png": {
+      "x": 124,
+      "y": 192,
+      "width": 120,
+      "height": 80
+    },
+    "Carnet_v2.png": {
+      "x": 685,
+      "y": 612,
+      "width": 45,
+      "height": 30
+    },
+    "Carnet_v2@2x.png": {
+      "x": 0,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "CartaSi.png": {
+      "x": 784,
+      "y": 966,
+      "width": 43,
+      "height": 30
+    },
+    "CartaSi@2x.png": {
+      "x": 376,
+      "y": 812,
+      "width": 86,
+      "height": 60
+    },
+    "Cartes_Bancaires.png": {
+      "x": 882,
+      "y": 812,
+      "width": 60,
+      "height": 40
+    },
+    "Cartes_Bancaires@2x.png": {
+      "x": 248,
+      "y": 192,
+      "width": 120,
+      "height": 80
+    },
+    "Cartes_Bancaires_v2.png": {
+      "x": 444,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "Cartes_Bancaires_v2@2x.png": {
+      "x": 94,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "Cartes_Bancaires_v3.png": {
+      "x": 1020,
+      "y": 0,
+      "width": 38,
+      "height": 26
+    },
+    "Cartes_Bancaires_v3@2x.png": {
+      "x": 722,
+      "y": 812,
+      "width": 76,
+      "height": 52
+    },
+    "DK.png": {
+      "x": 579,
+      "y": 612,
+      "width": 53,
+      "height": 30
+    },
+    "DK@2x.png": {
+      "x": 286,
+      "y": 64,
+      "width": 106,
+      "height": 60
+    },
+    "Dankort.png": {
+      "x": 956,
+      "y": 836,
+      "width": 60,
+      "height": 34
+    },
+    "Dankort@2x.png": {
+      "x": 644,
+      "y": 168,
+      "width": 120,
+      "height": 68
+    },
+    "Delta.png": {
+      "x": 124,
+      "y": 612,
+      "width": 196,
+      "height": 30
+    },
+    "Delta@2x.png": {
+      "x": 0,
+      "y": 0,
+      "width": 392,
+      "height": 60
+    },
+    "Diners_Club.png": {
+      "x": 320,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "Diners_Club@2x.png": {
+      "x": 0,
+      "y": 276,
+      "width": 120,
+      "height": 80
+    },
+    "Diners_Club_v2.png": {
+      "x": 493,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "Diners_Club_v2@2x.png": {
+      "x": 188,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "Diners_Club_v3.png": {
+      "x": 1020,
+      "y": 30,
+      "width": 38,
+      "height": 26
+    },
+    "Diners_Club_v3@2x.png": {
+      "x": 802,
+      "y": 812,
+      "width": 76,
+      "height": 52
+    },
+    "Discover.png": {
+      "x": 384,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "Discover@2x.png": {
+      "x": 124,
+      "y": 276,
+      "width": 120,
+      "height": 80
+    },
+    "Discover_v2.png": {
+      "x": 542,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "Discover_v2@2x.png": {
+      "x": 282,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "Discover_v3.png": {
+      "x": 1020,
+      "y": 60,
+      "width": 38,
+      "height": 26
+    },
+    "Discover_v3@2x.png": {
+      "x": 0,
+      "y": 876,
+      "width": 76,
+      "height": 52
+    },
+    "JCB.png": {
+      "x": 448,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "JCB@2x.png": {
+      "x": 248,
+      "y": 276,
+      "width": 120,
+      "height": 80
+    },
+    "JCB_v2.png": {
+      "x": 591,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "JCB_v2@2x.png": {
+      "x": 376,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "JCB_v3.png": {
+      "x": 1020,
+      "y": 90,
+      "width": 38,
+      "height": 26
+    },
+    "JCB_v3@2x.png": {
+      "x": 80,
+      "y": 876,
+      "width": 76,
+      "height": 52
+    },
+    "Maestro.png": {
+      "x": 923,
+      "y": 966,
+      "width": 38,
+      "height": 30
+    },
+    "Maestro@2x.png": {
+      "x": 310,
+      "y": 128,
+      "width": 76,
+      "height": 60
+    },
+    "Maestro_v2.png": {
+      "x": 640,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "Maestro_v2@2x.png": {
+      "x": 470,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "MasterCard.png": {
+      "x": 512,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "MasterCard@2x.png": {
+      "x": 396,
+      "y": 0,
+      "width": 120,
+      "height": 80
+    },
+    "MasterCard_v2.png": {
+      "x": 689,
+      "y": 646,
+      "width": 45,
+      "height": 30
+    },
+    "MasterCard_v2@2x.png": {
+      "x": 564,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "MasterCard_v3.png": {
+      "x": 1020,
+      "y": 120,
+      "width": 38,
+      "height": 26
+    },
+    "MasterCard_v3@2x.png": {
+      "x": 160,
+      "y": 876,
+      "width": 76,
+      "height": 52
+    },
+    "Sofort-de.png": {
+      "x": 956,
+      "y": 874,
+      "width": 60,
+      "height": 34
+    },
+    "Sofort-de@2x.png": {
+      "x": 644,
+      "y": 240,
+      "width": 120,
+      "height": 68
+    },
+    "Visa.png": {
+      "x": 576,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "Visa@2x.png": {
+      "x": 396,
+      "y": 84,
+      "width": 120,
+      "height": 80
+    },
+    "Visa_v2.png": {
+      "x": 896,
+      "y": 876,
+      "width": 45,
+      "height": 30
+    },
+    "Visa_v2@2x.png": {
+      "x": 658,
+      "y": 684,
+      "width": 90,
+      "height": 60
+    },
+    "Visa_v3.png": {
+      "x": 1020,
+      "y": 150,
+      "width": 38,
+      "height": 26
+    },
+    "Visa_v3@2x.png": {
+      "x": 240,
+      "y": 876,
+      "width": 76,
+      "height": 52
+    },
+    "adyen_dotpay_poland.png": {
+      "x": 640,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_dotpay_poland@2x.png": {
+      "x": 396,
+      "y": 168,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_dotpay_poland_v2.png": {
+      "x": 0,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_dotpay_poland_v2@2x.png": {
+      "x": 768,
+      "y": 0,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_giropay.png": {
+      "x": 704,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_giropay@2x.png": {
+      "x": 396,
+      "y": 252,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_giropay_v2.png": {
+      "x": 49,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_giropay_v2@2x.png": {
+      "x": 768,
+      "y": 64,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_mobilepay.png": {
+      "x": 768,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_mobilepay@2x.png": {
+      "x": 0,
+      "y": 360,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_mobilepay_v2.png": {
+      "x": 98,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_mobilepay_v2@2x.png": {
+      "x": 768,
+      "y": 128,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_online_banking_filand_v2.png": {
+      "x": 147,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_online_banking_filand_v2@2x.png": {
+      "x": 768,
+      "y": 192,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_paypo_v2.png": {
+      "x": 196,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_paypo_v2@2x.png": {
+      "x": 768,
+      "y": 256,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_riverty_v2.png": {
+      "x": 245,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_riverty_v2@2x.png": {
+      "x": 768,
+      "y": 320,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_sofort.png": {
+      "x": 832,
+      "y": 876,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_sofort@2x.png": {
+      "x": 124,
+      "y": 360,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_sofort_v2.png": {
+      "x": 294,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_sofort_v2@2x.png": {
+      "x": 768,
+      "y": 384,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_trustly.png": {
+      "x": 956,
+      "y": 0,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_trustly@2x.png": {
+      "x": 248,
+      "y": 360,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_trustly_v2.png": {
+      "x": 343,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_trustly_v2@2x.png": {
+      "x": 768,
+      "y": 448,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_twint.png": {
+      "x": 956,
+      "y": 44,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_twint@2x.png": {
+      "x": 372,
+      "y": 360,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_twint_v2.png": {
+      "x": 392,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_twint_v2@2x.png": {
+      "x": 768,
+      "y": 512,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_vipps.png": {
+      "x": 956,
+      "y": 88,
+      "width": 60,
+      "height": 40
+    },
+    "adyen_vipps@2x.png": {
+      "x": 520,
+      "y": 0,
+      "width": 120,
+      "height": 80
+    },
+    "adyen_vipps_v2.png": {
+      "x": 441,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_vipps_v2@2x.png": {
+      "x": 768,
+      "y": 576,
+      "width": 90,
+      "height": 60
+    },
+    "adyen_walley_v2.png": {
+      "x": 490,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "adyen_walley_v2@2x.png": {
+      "x": 768,
+      "y": 640,
+      "width": 90,
+      "height": 60
+    },
+    "afterpay.png": {
+      "x": 956,
+      "y": 132,
+      "width": 60,
+      "height": 40
+    },
+    "afterpay@2x.png": {
+      "x": 520,
+      "y": 84,
+      "width": 120,
+      "height": 80
+    },
+    "afterpay_v2.png": {
+      "x": 539,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "afterpay_v2@2x.png": {
+      "x": 0,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "amex.png": {
+      "x": 124,
+      "y": 646,
+      "width": 60,
+      "height": 34
+    },
+    "amex@2x.png": {
+      "x": 644,
+      "y": 312,
+      "width": 120,
+      "height": 68
+    },
+    "apple_pay.png": {
+      "x": 956,
+      "y": 176,
+      "width": 60,
+      "height": 40
+    },
+    "apple_pay@2x.png": {
+      "x": 520,
+      "y": 168,
+      "width": 120,
+      "height": 80
+    },
+    "apple_pay_v2.png": {
+      "x": 588,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "apple_pay_v2@2x.png": {
+      "x": 94,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "bancontact_card_v2.png": {
+      "x": 637,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "bancontact_card_v2@2x.png": {
+      "x": 188,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "bancontact_v2.png": {
+      "x": 686,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "bancontact_v2@2x.png": {
+      "x": 282,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "blik_v2.png": {
+      "x": 735,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "blik_v2@2x.png": {
+      "x": 376,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "boleto.png": {
+      "x": 956,
+      "y": 220,
+      "width": 60,
+      "height": 40
+    },
+    "boleto@2x.png": {
+      "x": 520,
+      "y": 252,
+      "width": 120,
+      "height": 80
+    },
+    "boleto_v2.png": {
+      "x": 784,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "boleto_v2@2x.png": {
+      "x": 470,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "cartao.png": {
+      "x": 877,
+      "y": 966,
+      "width": 42,
+      "height": 30
+    },
+    "cartao@2x.png": {
+      "x": 554,
+      "y": 812,
+      "width": 84,
+      "height": 60
+    },
+    "clearpay.png": {
+      "x": 956,
+      "y": 264,
+      "width": 60,
+      "height": 40
+    },
+    "clearpay@2x.png": {
+      "x": 520,
+      "y": 336,
+      "width": 120,
+      "height": 80
+    },
+    "clearpay_v2.png": {
+      "x": 833,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "clearpay_v2@2x.png": {
+      "x": 564,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "credit_v2.png": {
+      "x": 882,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "credit_v2@2x.png": {
+      "x": 658,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "e-payment-standard.png": {
+      "x": 188,
+      "y": 646,
+      "width": 60,
+      "height": 34
+    },
+    "e-payment-standard@2x.png": {
+      "x": 644,
+      "y": 384,
+      "width": 120,
+      "height": 68
+    },
+    "elo.png": {
+      "x": 956,
+      "y": 308,
+      "width": 60,
+      "height": 40
+    },
+    "elo@2x.png": {
+      "x": 0,
+      "y": 444,
+      "width": 120,
+      "height": 80
+    },
+    "elo_v2.png": {
+      "x": 931,
+      "y": 932,
+      "width": 45,
+      "height": 30
+    },
+    "elo_v2@2x.png": {
+      "x": 752,
+      "y": 748,
+      "width": 90,
+      "height": 60
+    },
+    "eps_v2.png": {
+      "x": 0,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "eps_v2@2x.png": {
+      "x": 862,
+      "y": 0,
+      "width": 90,
+      "height": 60
+    },
+    "google_pay.png": {
+      "x": 956,
+      "y": 352,
+      "width": 60,
+      "height": 40
+    },
+    "google_pay@2x.png": {
+      "x": 124,
+      "y": 444,
+      "width": 120,
+      "height": 80
+    },
+    "google_pay_v2.png": {
+      "x": 49,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "google_pay_v2@2x.png": {
+      "x": 862,
+      "y": 64,
+      "width": 90,
+      "height": 60
+    },
+    "hipercard.png": {
+      "x": 956,
+      "y": 396,
+      "width": 60,
+      "height": 40
+    },
+    "hipercard@2x.png": {
+      "x": 248,
+      "y": 444,
+      "width": 120,
+      "height": 80
+    },
+    "hipercard_v2.png": {
+      "x": 98,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "hipercard_v2@2x.png": {
+      "x": 862,
+      "y": 128,
+      "width": 90,
+      "height": 60
+    },
+    "ideal-logo.png": {
+      "x": 252,
+      "y": 646,
+      "width": 60,
+      "height": 34
+    },
+    "ideal-logo@2x.png": {
+      "x": 644,
+      "y": 456,
+      "width": 120,
+      "height": 68
+    },
+    "ideal.png": {
+      "x": 956,
+      "y": 440,
+      "width": 60,
+      "height": 40
+    },
+    "ideal@2x.png": {
+      "x": 372,
+      "y": 444,
+      "width": 120,
+      "height": 80
+    },
+    "ideal_v2.png": {
+      "x": 147,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "ideal_v2@2x.png": {
+      "x": 862,
+      "y": 192,
+      "width": 90,
+      "height": 60
+    },
+    "klarna.png": {
+      "x": 956,
+      "y": 484,
+      "width": 60,
+      "height": 40
+    },
+    "klarna@2x.png": {
+      "x": 496,
+      "y": 444,
+      "width": 120,
+      "height": 80
+    },
+    "klarna_v2.png": {
+      "x": 196,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "klarna_v2@2x.png": {
+      "x": 862,
+      "y": 256,
+      "width": 90,
+      "height": 60
+    },
+    "mbway_v2.png": {
+      "x": 245,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "mbway_v2@2x.png": {
+      "x": 862,
+      "y": 320,
+      "width": 90,
+      "height": 60
+    },
+    "mercado-pago.png": {
+      "x": 956,
+      "y": 528,
+      "width": 60,
+      "height": 40
+    },
+    "mercado-pago@2x.png": {
+      "x": 0,
+      "y": 528,
+      "width": 120,
+      "height": 80
+    },
+    "mercado-pago_v2.png": {
+      "x": 294,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "mercado-pago_v2@2x.png": {
+      "x": 862,
+      "y": 384,
+      "width": 90,
+      "height": 60
+    },
+    "mir.png": {
+      "x": 469,
+      "y": 612,
+      "width": 106,
+      "height": 30
+    },
+    "mir@2x.png": {
+      "x": 0,
+      "y": 128,
+      "width": 212,
+      "height": 60
+    },
+    "multibanco_v2.png": {
+      "x": 343,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "multibanco_v2@2x.png": {
+      "x": 862,
+      "y": 448,
+      "width": 90,
+      "height": 60
+    },
+    "oxxo.png": {
+      "x": 956,
+      "y": 572,
+      "width": 60,
+      "height": 40
+    },
+    "oxxo@2x.png": {
+      "x": 124,
+      "y": 528,
+      "width": 120,
+      "height": 80
+    },
+    "oxxo_v2.png": {
+      "x": 392,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "oxxo_v2@2x.png": {
+      "x": 862,
+      "y": 512,
+      "width": 90,
+      "height": 60
+    },
+    "paypal .png": {
+      "x": 316,
+      "y": 646,
+      "width": 60,
+      "height": 34
+    },
+    "paypal @2x.png": {
+      "x": 644,
+      "y": 528,
+      "width": 120,
+      "height": 68
+    },
+    "paypal.png": {
+      "x": 956,
+      "y": 616,
+      "width": 60,
+      "height": 40
+    },
+    "paypal@2x.png": {
+      "x": 248,
+      "y": 528,
+      "width": 120,
+      "height": 80
+    },
+    "paypal_v2.png": {
+      "x": 441,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "paypal_v2@2x.png": {
+      "x": 862,
+      "y": 576,
+      "width": 90,
+      "height": 60
+    },
+    "postepay.png": {
+      "x": 324,
+      "y": 612,
+      "width": 141,
+      "height": 30
+    },
+    "postepay@2x.png": {
+      "x": 0,
+      "y": 64,
+      "width": 282,
+      "height": 60
+    },
+    "scalapay_v2.png": {
+      "x": 490,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "scalapay_v2@2x.png": {
+      "x": 862,
+      "y": 640,
+      "width": 90,
+      "height": 60
+    },
+    "sofort.png": {
+      "x": 956,
+      "y": 660,
+      "width": 60,
+      "height": 40
+    },
+    "sofort@2x.png": {
+      "x": 372,
+      "y": 528,
+      "width": 120,
+      "height": 80
+    },
+    "sofort_v2.png": {
+      "x": 539,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "sofort_v2@2x.png": {
+      "x": 862,
+      "y": 704,
+      "width": 90,
+      "height": 60
+    },
+    "trustly.png": {
+      "x": 956,
+      "y": 704,
+      "width": 60,
+      "height": 40
+    },
+    "trustly@2x.png": {
+      "x": 496,
+      "y": 528,
+      "width": 120,
+      "height": 80
+    },
+    "trustly_v2.png": {
+      "x": 588,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "trustly_v2@2x.png": {
+      "x": 0,
+      "y": 812,
+      "width": 90,
+      "height": 60
+    },
+    "visa-electron.png": {
+      "x": 380,
+      "y": 646,
+      "width": 60,
+      "height": 34
+    },
+    "visa-electron@2x.png": {
+      "x": 0,
+      "y": 612,
+      "width": 120,
+      "height": 68
+    },
+    "wallery_v2.png": {
+      "x": 637,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "walley_v2@2x.png": {
+      "x": 94,
+      "y": 812,
+      "width": 90,
+      "height": 60
+    },
+    "webmoney.png": {
+      "x": 956,
+      "y": 748,
+      "width": 60,
+      "height": 40
+    },
+    "webmoney@2x.png": {
+      "x": 644,
+      "y": 0,
+      "width": 120,
+      "height": 80
+    },
+    "webmoney_v2.png": {
+      "x": 686,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "webmoney_v2@2x.png": {
+      "x": 188,
+      "y": 812,
+      "width": 90,
+      "height": 60
+    },
+    "western_union.png": {
+      "x": 956,
+      "y": 792,
+      "width": 60,
+      "height": 40
+    },
+    "western_union@2x.png": {
+      "x": 644,
+      "y": 84,
+      "width": 120,
+      "height": 80
+    },
+    "western_union_v2.png": {
+      "x": 735,
+      "y": 966,
+      "width": 45,
+      "height": 30
+    },
+    "western_union_v2@2x.png": {
+      "x": 282,
+      "y": 812,
+      "width": 90,
+      "height": 60
+    }
+  }
+}

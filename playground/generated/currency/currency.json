@@ -1,0 +1,165 @@
+{
+  "files": 26,
+  "properties": {
+    "width": 116,
+    "height": 98
+  },
+  "coordinates": {
+    "AED.png": {
+      "x": 0,
+      "y": 0,
+      "width": 20,
+      "height": 13
+    },
+    "ARS.png": {
+      "x": 24,
+      "y": 0,
+      "width": 20,
+      "height": 13
+    },
+    "AUD.png": {
+      "x": 0,
+      "y": 17,
+      "width": 20,
+      "height": 13
+    },
+    "CAD.png": {
+      "x": 24,
+      "y": 17,
+      "width": 20,
+      "height": 13
+    },
+    "CHF.png": {
+      "x": 48,
+      "y": 0,
+      "width": 20,
+      "height": 13
+    },
+    "CLP.png": {
+      "x": 48,
+      "y": 17,
+      "width": 20,
+      "height": 13
+    },
+    "COP.png": {
+      "x": 0,
+      "y": 34,
+      "width": 20,
+      "height": 13
+    },
+    "CZK.png": {
+      "x": 24,
+      "y": 34,
+      "width": 20,
+      "height": 13
+    },
+    "DKK.png": {
+      "x": 48,
+      "y": 34,
+      "width": 20,
+      "height": 13
+    },
+    "EUR.png": {
+      "x": 0,
+      "y": 51,
+      "width": 20,
+      "height": 13
+    },
+    "GBP.png": {
+      "x": 24,
+      "y": 51,
+      "width": 20,
+      "height": 13
+    },
+    "HKD.png": {
+      "x": 48,
+      "y": 51,
+      "width": 20,
+      "height": 13
+    },
+    "INR.png": {
+      "x": 72,
+      "y": 0,
+      "width": 20,
+      "height": 13
+    },
+    "JPY.png": {
+      "x": 72,
+      "y": 17,
+      "width": 20,
+      "height": 13
+    },
+    "MAD.png": {
+      "x": 72,
+      "y": 34,
+      "width": 20,
+      "height": 13
+    },
+    "MXN.png": {
+      "x": 72,
+      "y": 51,
+      "width": 20,
+      "height": 13
+    },
+    "NGN.png": {
+      "x": 0,
+      "y": 68,
+      "width": 20,
+      "height": 13
+    },
+    "NOK.png": {
+      "x": 24,
+      "y": 68,
+      "width": 20,
+      "height": 13
+    },
+    "NZD.png": {
+      "x": 48,
+      "y": 68,
+      "width": 20,
+      "height": 13
+    },
+    "PLN.png": {
+      "x": 72,
+      "y": 68,
+      "width": 20,
+      "height": 13
+    },
+    "RUB.png": {
+      "x": 96,
+      "y": 0,
+      "width": 20,
+      "height": 13
+    },
+    "SEK.png": {
+      "x": 96,
+      "y": 17,
+      "width": 20,
+      "height": 13
+    },
+    "SGD.png": {
+      "x": 96,
+      "y": 34,
+      "width": 20,
+      "height": 13
+    },
+    "TRY.png": {
+      "x": 96,
+      "y": 51,
+      "width": 20,
+      "height": 13
+    },
+    "USD.png": {
+      "x": 96,
+      "y": 68,
+      "width": 20,
+      "height": 13
+    },
+    "ZAR.png": {
+      "x": 0,
+      "y": 85,
+      "width": 20,
+      "height": 13
+    }
+  }
+}

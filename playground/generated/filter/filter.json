@@ -1,0 +1,369 @@
+{
+  "files": 60,
+  "properties": {
+    "width": 476,
+    "height": 444
+  },
+  "coordinates": {
+    "all-32.png": {
+      "x": 440,
+      "y": 160,
+      "width": 32,
+      "height": 32
+    },
+    "all-32@2x.png": {
+      "x": 228,
+      "y": 228,
+      "width": 64,
+      "height": 64
+    },
+    "all.png": {
+      "x": 0,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "all@2x.png": {
+      "x": 0,
+      "y": 0,
+      "width": 72,
+      "height": 72
+    },
+    "black-32.png": {
+      "x": 440,
+      "y": 196,
+      "width": 32,
+      "height": 32
+    },
+    "black-32@2x.png": {
+      "x": 304,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "black.png": {
+      "x": 40,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "black@2x.png": {
+      "x": 76,
+      "y": 0,
+      "width": 72,
+      "height": 72
+    },
+    "blue-32.png": {
+      "x": 440,
+      "y": 232,
+      "width": 32,
+      "height": 32
+    },
+    "blue-32@2x.png": {
+      "x": 304,
+      "y": 68,
+      "width": 64,
+      "height": 64
+    },
+    "blue.png": {
+      "x": 80,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "blue@2x.png": {
+      "x": 0,
+      "y": 76,
+      "width": 72,
+      "height": 72
+    },
+    "brown-32.png": {
+      "x": 440,
+      "y": 268,
+      "width": 32,
+      "height": 32
+    },
+    "brown-32@2x.png": {
+      "x": 304,
+      "y": 136,
+      "width": 64,
+      "height": 64
+    },
+    "brown.png": {
+      "x": 120,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "brown@2x.png": {
+      "x": 76,
+      "y": 76,
+      "width": 72,
+      "height": 72
+    },
+    "florals-32.png": {
+      "x": 440,
+      "y": 304,
+      "width": 32,
+      "height": 32
+    },
+    "florals-32@2x.png": {
+      "x": 304,
+      "y": 204,
+      "width": 64,
+      "height": 64
+    },
+    "florals.png": {
+      "x": 160,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "florals@2x.png": {
+      "x": 152,
+      "y": 0,
+      "width": 72,
+      "height": 72
+    },
+    "green-32.png": {
+      "x": 440,
+      "y": 340,
+      "width": 32,
+      "height": 32
+    },
+    "green-32@2x.png": {
+      "x": 0,
+      "y": 304,
+      "width": 64,
+      "height": 64
+    },
+    "green.png": {
+      "x": 200,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "green@2x.png": {
+      "x": 152,
+      "y": 76,
+      "width": 72,
+      "height": 72
+    },
+    "grey-32.png": {
+      "x": 440,
+      "y": 376,
+      "width": 32,
+      "height": 32
+    },
+    "grey-32@2x.png": {
+      "x": 68,
+      "y": 304,
+      "width": 64,
+      "height": 64
+    },
+    "grey.png": {
+      "x": 240,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "grey@2x.png": {
+      "x": 0,
+      "y": 152,
+      "width": 72,
+      "height": 72
+    },
+    "neutral-32.png": {
+      "x": 0,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "neutral-32@2x.png": {
+      "x": 136,
+      "y": 304,
+      "width": 64,
+      "height": 64
+    },
+    "neutral.png": {
+      "x": 280,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "neutral@2x.png": {
+      "x": 76,
+      "y": 152,
+      "width": 72,
+      "height": 72
+    },
+    "new_in-32.png": {
+      "x": 36,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "new_in-32@2x.png": {
+      "x": 204,
+      "y": 304,
+      "width": 64,
+      "height": 64
+    },
+    "new_in.png": {
+      "x": 320,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "new_in@2x.png": {
+      "x": 152,
+      "y": 152,
+      "width": 72,
+      "height": 72
+    },
+    "orange-32.png": {
+      "x": 72,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "orange-32@2x.png": {
+      "x": 272,
+      "y": 304,
+      "width": 64,
+      "height": 64
+    },
+    "orange.png": {
+      "x": 360,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "orange@2x.png": {
+      "x": 228,
+      "y": 0,
+      "width": 72,
+      "height": 72
+    },
+    "pink-32.png": {
+      "x": 108,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "pink-32@2x.png": {
+      "x": 372,
+      "y": 0,
+      "width": 64,
+      "height": 64
+    },
+    "pink.png": {
+      "x": 400,
+      "y": 372,
+      "width": 36,
+      "height": 36
+    },
+    "pink@2x.png": {
+      "x": 228,
+      "y": 76,
+      "width": 72,
+      "height": 72
+    },
+    "purple-32.png": {
+      "x": 144,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "purple-32@2x.png": {
+      "x": 372,
+      "y": 68,
+      "width": 64,
+      "height": 64
+    },
+    "purple.png": {
+      "x": 440,
+      "y": 0,
+      "width": 36,
+      "height": 36
+    },
+    "purple@2x.png": {
+      "x": 228,
+      "y": 152,
+      "width": 72,
+      "height": 72
+    },
+    "red-32.png": {
+      "x": 180,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "red-32@2x.png": {
+      "x": 372,
+      "y": 136,
+      "width": 64,
+      "height": 64
+    },
+    "red.png": {
+      "x": 440,
+      "y": 40,
+      "width": 36,
+      "height": 36
+    },
+    "red@2x.png": {
+      "x": 0,
+      "y": 228,
+      "width": 72,
+      "height": 72
+    },
+    "white-32.png": {
+      "x": 216,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "white-32@2x.png": {
+      "x": 372,
+      "y": 204,
+      "width": 64,
+      "height": 64
+    },
+    "white.png": {
+      "x": 440,
+      "y": 80,
+      "width": 36,
+      "height": 36
+    },
+    "white@2x.png": {
+      "x": 76,
+      "y": 228,
+      "width": 72,
+      "height": 72
+    },
+    "yellow-32.png": {
+      "x": 252,
+      "y": 412,
+      "width": 32,
+      "height": 32
+    },
+    "yellow-32@2x.png": {
+      "x": 372,
+      "y": 272,
+      "width": 64,
+      "height": 64
+    },
+    "yellow.png": {
+      "x": 440,
+      "y": 120,
+      "width": 36,
+      "height": 36
+    },
+    "yellow@2x.png": {
+      "x": 152,
+      "y": 228,
+      "width": 72,
+      "height": 72
+    }
+  }
+}
