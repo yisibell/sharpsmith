@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.1.5
+
+[compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.4...v1.1.5)
+
+### 🩹 Fixes
+
+- Remove `packageManager` field ([1a8815f](https://github.com/yisibell/sharpsmith/commit/1a8815f))
+
+### ❤️ Contributors
+
+- Elenh <yisiwings@163.com>
+
 ## v1.1.4
 
 [compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.3...v1.1.4)
