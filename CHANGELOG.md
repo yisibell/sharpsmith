@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.1.3
+
+[compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.2...v1.1.3)
+
+### 🏡 Chore
+
+- Update package json `homepage` and `bugs` field ([ca75123](https://github.com/yisibell/sharpsmith/commit/ca75123))
+
+### ❤️ Contributors
+
+- Elenh <yisiwings@163.com>
+
 ## v1.1.2
 
 [compare changes](https://github.com/yisibell/sharpsmith/compare/v1.1.1...v1.1.2)
