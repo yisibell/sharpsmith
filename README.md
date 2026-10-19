@@ -1,6 +1,6 @@
 # sharpsmith
 
-A `spritesmith` engine powered by `sharp`, targeting Node.js 22 and newer.
+A [spritesmith](https://github.com/twolfson/spritesmith) engine powered by [sharp](https://github.com/lovell/sharp), targeting Node.js 22 and newer.
 
 [English](./README.md) · [简体中文](./README.zh.md)
 
